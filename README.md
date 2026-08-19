@@ -1,2 +1,2 @@
 # Nasa-Rover
-nasa open sorcer rover write information in 350 character . i designed suspensin in all wheel inside the suspension the wiring is there which is hidden all the suspesion is 3d printable and solar panel is on the top and is sidewise 
+Custom NASA Open Source Rover build featuring a fully 3D-printable all-wheel suspension system with hidden internal wire routing for complete cable protection. The chassis is topped with a side-oriented solar panel array for autonomous power generation, merging Martian mobility kinematics with clean, robust additive manufacturing.
